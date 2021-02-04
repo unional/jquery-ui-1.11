@@ -1,0 +1,22 @@
+{
+  "name": "jquery-ui-1.11",
+  "version": "1.11.4",
+  "description": "jquery-ui 1.11 distribution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unional/jquery-ui-1.11.git"
+  },
+  "keywords": [
+    "jquery-ui"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unional/jquery-ui-1.11/issues"
+  },
+  "homepage": "https://github.com/unional/jquery-ui-1.11#readme"
+}
